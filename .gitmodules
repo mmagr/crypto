@@ -1,0 +1,24 @@
+[submodule "jedis"]
+	path = jedis
+	url = https://github.com/dojot/jedis.git
+[submodule "ma-communication"]
+	path = ma-communication
+	url = https://github.com/dojot/ma-communication.git
+[submodule "ma-crypto"]
+	path = ma-crypto
+	url = https://github.com/dojot/ma-crypto.git
+[submodule "ma-libaes-c"]
+	path = ma-libaes-c
+	url = https://github.com/dojot/ma-libaes-c.git
+[submodule "ma-libjcrypto"]
+	path = ma-libjcrypto
+	url = https://github.com/dojot/ma-libjcrypto.git
+[submodule "ma-loggingapi"]
+	path = ma-loggingapi
+	url = https://github.com/dojot/ma-loggingapi.git
+[submodule "ma-serviceregistry"]
+	path = ma-serviceregistry
+	url = https://github.com/dojot/ma-serviceregistry.git
+[submodule "ma-registryclient"]
+	path = ma-registryclient
+	url = https://github.com/dojot/ma-registryclient.git
